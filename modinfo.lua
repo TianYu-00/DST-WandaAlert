@@ -21,7 +21,7 @@ or
 
 ]]
 author = "Tian || TianYu"
-version = "1.3"
+version = "1.3.1"
 forumthread = ""
 
 -- Mod Icon
